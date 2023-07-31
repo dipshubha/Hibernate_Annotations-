@@ -33,7 +33,7 @@ public class SaveData
 		 manager.persist(p);
 		 tranasation.begin();
 		 tranasation.commit();
-		 
+		 //.................
 		
 		
 	}
